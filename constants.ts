@@ -1,4 +1,4 @@
-export const SPOTIFY_CLIENT_ID = "f4d5c0dc1d694f61ab0b92eba378776e";
+export const SPOTIFY_CLIENT_ID = "eb9e02009906469ba5bbd542ccfe82f5";
 // IMPORTANT: You must add this URL to your "Redirect URIs" in the Spotify Developer Dashboard.
 // For local development, it might be 'http://localhost:5173/'. For production, it's the URL of your deployed app.
 export const SPOTIFY_REDIRECT_URI = window.location.origin;
