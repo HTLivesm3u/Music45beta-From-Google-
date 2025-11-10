@@ -1,0 +1,5 @@
+{
+  "name": "Music45",
+  "description": "A sleek, modern music application that allows you to search for songs, artists, and albums, manage your library of liked songs, and view synchronized lyrics. It integrates with Spotify for authentication to personalize your experience.",
+  "requestFramePermissions": []
+}
